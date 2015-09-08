@@ -1,7 +1,7 @@
 # Mooc Afrique Innovation
 
 **Sèmèvo KOUCOI** <div align="center"><img src="https://pbs.twimg.com/profile_images/569909318170861568/xE_doGjF.jpeg" width="150" height="150"></div>
-> :octocat: On 'appelle Sèmèvo Igor KOUCOI
+> :octocat: On m'appelle Sèmèvo Igor KOUCOI
 
 Passionné du web et les nouvelles technologies de l'information et de la communication.
 
