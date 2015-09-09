@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # [Start Bootstrap](http://startbootstrap.com/) - [Landing Page](http://startbootstrap.com/template-overviews/landing-page/)
 
 [Landing Page](http://startbootstrap.com/template-overviews/landing-page/) is a multipurpose landing page template for [Bootstrap](http://getbootstrap.com/) created by [Start Bootstrap](http://startbootstrap.com/).
@@ -24,3 +25,19 @@ Start Bootstrap is based on the [Bootstrap](http://getbootstrap.com/) framework 
 ## Copyright and License
 
 Copyright 2013-2015 Iron Summit Media Strategies, LLC. Code released under the [Apache 2.0](https://github.com/IronSummitMedia/startbootstrap-landing-page/blob/gh-pages/LICENSE) license.
+=======
+# Mooc Afrique Innovation
+
+**Sèmèvo KOUCOI** <div align="center"><img src="https://pbs.twimg.com/profile_images/569909318170861568/xE_doGjF.jpeg" width="150" height="150"></div>
+> :octocat: On m'appelle Sèmèvo Igor KOUCOI
+
+Passionné du web et les nouvelles technologies de l'information et de la communication.
+
+Je suis quelqu'un de très ouvert et j'aime travaillé en groupe. 
+
+ici le lien pour voir mon cv 
+
+www.igorkoucoi.com/index.html
+
+Pour le code de mon CV en HTML/CSS et Bootstrap c'est https://github.com/igordubenin/moocdoc
+>>>>>>> bf24fca6bf29f8865db6a97474b802ef695d79c9
